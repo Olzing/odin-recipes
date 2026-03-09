@@ -1,3 +1,7 @@
+html{
+    box-sizing: border-box;
+}
+
 .hometitle{
     font-family:Arial, Helvetica, sans-serif;
     box-sizing: border-box;
@@ -38,4 +42,20 @@
 
 .description{
     font-size:28px;
+}
+
+.link{
+    color:rgb(235, 59, 238)
+}
+
+.instructions{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+.stepslist{
+    list-style: none;
+}
+
+.stepsheading{
+    margin-left:15px;
 }
