@@ -9,6 +9,7 @@
     text-align: center;
     border-color: brown;
     border-style: solid;
+    font-size: 48px;
 }
 
 .recipelist{
@@ -17,6 +18,7 @@
     text-align: center;
     padding:3px;
     list-style-type: none;
+    font-size: 32px;
 }
 
 .one{
@@ -30,6 +32,10 @@
 .gif{
     box-sizing: border-box;
     display:inline;
-    width: 40px;
+    width: 100px;
     height: auto;
+}
+
+.description{
+    font-size:28px;
 }
